@@ -8,8 +8,10 @@
 - 
 
 
-## GitHub Stats & Contributions
+## GitHub Stats
 ![Your Contributions](https://github-readme-streak-stats.herokuapp.com/?user=amitdey13&show_icons=true&theme=transparent)
+
+## Contributions
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=amitdey13&show_icons=true&theme=transparent)
 
 ## Top Languages
