@@ -5,7 +5,7 @@ Feel free to contact me in any case and if I will be able, I will be happy to he
 
 <!--![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=$.profileViews&url=https://api.github-star-counter.workers.dev/user/Amitdey13)-->
 
-[![Gmail](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:apu76899@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:adey1158@gmail.com)
 &ensp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amit-dey-aabb11186/)
 
 ## Skills
