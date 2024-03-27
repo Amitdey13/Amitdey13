@@ -1,5 +1,5 @@
 <!-- Header Image -->
-<img src="https://github.com/Amitdey13/Amitdey13/blob/master/Black%20&%20Yellow%20Creative%20Business%20Facebook%20Cover.gif?raw=true" alt="Header Image" width="1000"/>
+<img src="https://github.com/Amitdey13/Amitdey13/blob/master/GithubCover.gif?raw=true" alt="Header Image"/>
 
 Feel free to contact me in any case and if I will be able, I will be happy to help you 🙂.
 
