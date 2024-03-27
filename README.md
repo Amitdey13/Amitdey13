@@ -1,7 +1,6 @@
 <!-- Header Image -->
-<!--<img src="https://drive.google.com/file/d/1T8I3M_v3HuXKJ4ukAK36IJooEUMKozfU/view?usp=drive_link" alt="Header Image" width="1000"/>-->
+<img src="https://github.com/Amitdey13/Amitdey13/blob/master/Black%20&%20Yellow%20Creative%20Business%20Facebook%20Cover.gif?raw=true" alt="Header Image" width="1000"/>
 
-### Hi there 👋
 Feel free to contact me in any case and if I will be able, I will be happy to help you 🙂.
 
 <!--![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=$.profileViews&url=https://api.github-star-counter.workers.dev/user/Amitdey13)-->
