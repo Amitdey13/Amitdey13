@@ -43,16 +43,14 @@ Feel free to contact me in any case and if I will be able, I will be happy to he
 
 
 ## GitHub Stats
-![Your Contributions](https://github-readme-streak-stats.herokuapp.com/?user=amitdey13&show_icons=true&theme=transparent)
-
-## Contributions
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=amitdey13&show_icons=true&theme=transparent)
+&ensp;![Your Contributions](https://github-readme-streak-stats.herokuapp.com/?user=amitdey13&show_icons=true&theme=transparent)
+&emsp;![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=amitdey13&show_icons=true&theme=transparent&rank_icon=github)
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitdey13&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitdey13&show_icons=true&theme=transparent&layout=donut)
 
 ## Trophy
-![Your Trophy Case](https://github-profile-trophy.vercel.app/?username=amitdey13&theme=dark)
+![Your Trophy Case](https://github-profile-trophy.vercel.app/?username=amitdey13&theme=darkhub&margin-w=15&column=5&margin-h=15)
 
 <!--
 **Amitdey13/Amitdey13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
