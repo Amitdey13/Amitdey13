@@ -44,7 +44,7 @@ Feel free to contact me in any case and if I will be able, I will be happy to he
 
 ## GitHub Stats
 &ensp;![Your Contributions](https://github-readme-streak-stats.herokuapp.com/?user=amitdey13&show_icons=true&theme=transparent)
-&emsp;![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=amitdey13&show_icons=true&theme=transparent&rank_icon=github)
+&ensp;![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=amitdey13&show_icons=true&theme=transparent&rank_icon=github)
 
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitdey13&show_icons=true&theme=transparent&layout=donut)
